@@ -1,0 +1,16 @@
+{
+  "name": "bun-api",
+  "version": "0.0.1",
+  "module": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/main.js",
+    "dev": "bun --hot run src/main.js"
+  },
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "hono": "^2.7.7"
+  }
+}
