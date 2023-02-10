@@ -1,4 +1,4 @@
-# bun-api
+# Bun-api
 DEMO: BunJS Rest api
 
 - Rest API ([Hono Framework](https://honojs.dev/))
