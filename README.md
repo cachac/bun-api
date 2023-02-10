@@ -2,6 +2,7 @@
 DEMO: BunJS Rest api
 
 - Rest API ([Hono Framework](https://honojs.dev/))
+- Dockerfile
 - JWT auth
 - Hot Reload
 - CORS
@@ -23,4 +24,4 @@ bun --hot run src/main.js
 - Compression
 - Logger
 - Validations
-- Dockerfile
+
