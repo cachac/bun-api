@@ -23,4 +23,4 @@ bun --hot run src/main.js
 - Compression
 - Logger
 - Validations
-- Docker
+- Dockerfile
