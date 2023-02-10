@@ -20,5 +20,5 @@ console.log(
 
 export default {
   fetch: app.fetch,
-  port: 3000,
+  port: config.NODE_PORT || 3000,
 };
